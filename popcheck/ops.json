@@ -1,0 +1,4 @@
+{
+  "ads_enabled": true,
+  "_note": "Read by the PopCheck app at launch (3 second timeout, cached on failure). Set ads_enabled to false to switch the banner off for everyone without an App Store update."
+}
